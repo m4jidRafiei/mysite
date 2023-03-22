@@ -186,7 +186,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: m4jid.rafiei@gmail.com
+      email: majid <dot> rafiei <at> pads <dot> rwth-aachen <dot> de 
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
