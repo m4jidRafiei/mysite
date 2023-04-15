@@ -1,0 +1,3 @@
+put publications.bib in the data folder and run the foolowing command in powershell (admin mode)
+	python -m academic.cli import --bibtex data/publications.bib
+remove publications.bib from the data folder

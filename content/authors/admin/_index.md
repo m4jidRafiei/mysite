@@ -49,7 +49,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:m4jid.rafiei@gmail.com" or "/#contact" for contact widget.
+#   form "mailto:majid.rafiei@pads.rwth-aachen.de" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -77,7 +77,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'm4jid.rafiei@gmail.com'
+email: 'majid.rafiei@pads.rwth-aachen.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
