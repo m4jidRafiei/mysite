@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'TraVaS: Differentially Private Trace Variant Selection for Process Mining'
+title: 'TraVaS: Differentially Private Trace Variant Selection for Process Mining'
 subtitle: ''
 summary: ''
 authors:
@@ -10,8 +10,8 @@ authors:
 - Wil M. P. van der Aalst
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-17T20:48:48+01:00
+date: '2023-01-01'
+lastmod: 2023-04-15T22:27:22+02:00
 featured: false
 draft: false
 
@@ -29,13 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-17T19:48:47.856763Z'
+publishDate: '2023-04-15T20:27:21.016192Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
-publication: '*CoRR*'
-doi: 10.48550/arXiv.2210.14951
-links:
-- name: URL
-  url: https://doi.org/10.48550/arXiv.2210.14951
+publication: '*Process Mining Workshops*'
 ---
