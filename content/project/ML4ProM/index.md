@@ -1,12 +1,12 @@
 ---
-title: Privacy-Preserving Process Mining (PPPM)
-summary: RPM (Responsible Process Mining) aims to deal with FACT (Fairness, Accuracy, Confidentiality, and Transparency) challenges in process mining. This project is focused on privacy and confidentiality aspects, where process mining algorithms are applied with respect to the private (sensitive) information of individuals (organization).
+title: Machine Learning for Process mining
+summary: In this project, the goal is to support and comprehend process mining results such as process models with predictive machine learning techniques. An example is to predict deviations from the reference model as early as possible. All the machine learning techniques are supported by explainable AI (XAI) to add transparency to decisions made by black-box models.
 tags:
-  - Privacy Preservation
-date: '2018-08-01T00:00:00Z'
+  - ML4ProM
+date: '2023-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://dataninja.nrw/?page_id=326'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ image:
 #  - icon: researchgate
 #    icon_pack: fab
 #    name: Follow
-#    url: https://www.researchgate.net/project/Privacy-and-Confidentiality-in-Process-Mining
+#    url: 'https://dataninja.nrw/?page_id=326'
 url_code: ''
 url_pdf: ''
 url_slides: ''

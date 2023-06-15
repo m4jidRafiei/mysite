@@ -12,11 +12,11 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: researchgate
-    icon_pack: fab
-    name: Follow
-    url: https://www.researchgate.net/project/Process-Mining-over-SAP-Data
+#links:
+#  - icon: researchgate
+#    icon_pack: fab
+#    name: Follow
+#    url: https://www.researchgate.net/project/Process-Mining-over-SAP-Data
 url_code: ''
 url_pdf: ''
 url_slides: ''

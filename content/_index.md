@@ -40,6 +40,8 @@ sections:
               * Researching on process-aware data science over SAP data
               * Designing and implementing state-of-the-art privacy preservation techniques
               * Teaching on process and data science
+              * Internal lead of the machine learning for process mining project (ML4ProM)
+              * Internal lead of the AI study buddy project (AIStudyBuddy)
         - title: SAP Technical Consultant
           company: NAK - Mobile Company of Iran (MCI)
           company_url: https://www.nak-mci.ir/en
@@ -148,6 +150,10 @@ sections:
           tag: 'SAP'
         - name: Expert Finding
           tag: 'Expert Finding'
+        - name: AIStudyBuddy
+          tag: 'AIStudyBuddy'
+        - name: ML4ProM
+          tag: 'ML4ProM'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
