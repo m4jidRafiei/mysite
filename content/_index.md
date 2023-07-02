@@ -26,7 +26,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Scientific Assistant (PhD Candidate)
+        - title: Data and Process Scientist (PhD Candidate)
           company: RWTH Aachen University
           company_url: www.pads.rwth-aachen.de
           company_logo: rwth
