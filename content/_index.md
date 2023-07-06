@@ -35,13 +35,15 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Researching on reponsible data science
-              * Researching on process-aware data science over SAP focusing on object-centric event data
-              * Designing and implementing state-of-the-art privacy preservation techniques
-              * Teaching on process and data science
+			  
               * Internal lead of the machine learning for process mining project (ML4ProM) at PADS
               * Internal lead of the AI study buddy project (AIStudyBuddy) at PADS
+              * Researching on reponsible data science
+              * Researching on process-aware data science over SAP focusing on object-centric event data
+              * Researching on federated (inter-organizational) process mining
+              * Designing and implementing state-of-the-art privacy preservation techniques
+              * Teaching on process and data science
+              
         - title: SAP Technical Consultant
           company: NAK - Mobile Company of Iran (MCI)
           company_url: https://www.nak-mci.ir/en
