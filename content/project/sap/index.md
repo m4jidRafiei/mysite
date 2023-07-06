@@ -1,6 +1,6 @@
 ---
 title: Process Mining over SAP Data (PM-SAP)
-summary: The extraction, transformation, and loading of event logs from information systems is the first and the most expensive step in process mining. In particular, extracting event logs from popular ERP systems such as SAP poses major challenges, given the size and the structure of the data.The goal of this project is to first facilitate event data extraction from SAP ERP systems, and then discover and analyze well-known and unknown processes from such systems.
+summary: The extraction, transformation, and loading of event logs from information systems is the first and the most expensive step in process mining. In particular, extracting event data from popular ERP systems such as SAP poses major challenges, given the size and the structure of the data. The goal of this project is to first extract object-centric event data from SAP ERP systems, and then discover and analyze well-known and unknown processes from such systems.
 tags:
   - SAP
 date: '2019-06-01T00:00:00Z'
@@ -30,4 +30,4 @@ url_video: ''
 #slides: example
 ---
 
-The extraction, transformation, and loading of event logs from information systems is the first and the most expensive step in process mining. In particular, extracting event logs from popular ERP systems such as SAP poses major challenges, given the size and the structure of the data.The goal of this project is to first facilitate event data extraction from SAP ERP systems, and then discover and analyze well-known and unknown processes from such systems.
+The extraction, transformation, and loading of event logs from information systems is the first and the most expensive step in process mining. In particular, extracting event data from popular ERP systems such as SAP poses major challenges, given the size and the structure of the data. The goal of this project is to first extract object-centric event data from SAP ERP systems, and then discover and analyze well-known and unknown processes from such systems.

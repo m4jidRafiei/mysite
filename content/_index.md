@@ -37,7 +37,7 @@ sections:
               Responsibilities include:
 
               * Researching on reponsible data science
-              * Researching on process-aware data science over SAP data
+              * Researching on process-aware data science over SAP focusing on object-centric event data
               * Designing and implementing state-of-the-art privacy preservation techniques
               * Teaching on process and data science
               * Internal lead of the machine learning for process mining project (ML4ProM) at PADS
@@ -154,6 +154,8 @@ sections:
           tag: 'AIStudyBuddy'
         - name: ML4ProM
           tag: 'ML4ProM'
+        - name: SAP Technical
+          tag: 'sapTechnical'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
