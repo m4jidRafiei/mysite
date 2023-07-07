@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-04-15T22:10:18+02:00
+lastmod: 2023-07-07T08:31:50+02:00
 featured: false
 draft: false
 
@@ -30,13 +30,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-15T20:10:17.849539Z'
+publishDate: '2023-07-07T06:31:49.840820Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
-publication: '*CoRR*'
-doi: 10.48550/arXiv.2303.16704
+publication: '*Research Challenges in Information Science: Information Science and
+  the Connected World - 17th International Conference, RCIS 2023, Corfu, Greece, May
+  23-26, 2023, Proceedings*'
+doi: 10.1007/978-3-031-33080-3_25
 links:
 - name: URL
-  url: https://doi.org/10.48550/arXiv.2303.16704
+  url: https://doi.org/10.1007/978-3-031-33080-3_25
 ---
