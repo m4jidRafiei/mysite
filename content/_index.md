@@ -126,6 +126,14 @@ sections:
           organization_url: ''
           title: 'Best Paper Award'
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-10-23'
+          description: 'The EduPM Workshop of ICPM Conference'
+          organization: International Conference on Process Mining (ICPM) - Workshop on Education meets Process Mining (EduPM) 
+          organization_url: ''
+          title: 'Best Paper Award'
+          url: ''
     design:
       columns: '2'
   - block: portfolio
