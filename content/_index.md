@@ -135,6 +135,14 @@ sections:
           organization_url: ''
           title: 'Best Paper Award'
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-11-14'
+          description: 'The ICT Young Researcher Award of RWTH Aachen University - PhD Category'
+          organization: RWTH Aachen University 
+          organization_url: ''
+          title: 'The ICT Young Researcher Award'
+          url: ''
     design:
       columns: '2'
   - block: portfolio
