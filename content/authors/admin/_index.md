@@ -83,7 +83,7 @@ email: 'majid.rafiei@pads.rwth-aachen.de'
 highlight_name: true
 ---
 
-Majid is fascinated by the science that takes data from the real world and transforms them into useful insights by discovering business process models or training
-descriptive and predictive models. Currently, he is doing his PhD in process mining at RWTH Aachen University under the supervision of Prof. Wil van der Aalst, the godfather of process mining.
-Majid is a former SAP Technical Consultant. He was involved in several SAP ABAP development, SAP Fiori, and SAP PI/PO projects.
+Majid is fascinated by the science that takes data from the real world and transforms them into useful insights by discovering business process models or training descriptive and predictive models. 
+Majid obtained his Ph.D. in process and data science at RWTH Aachen University in Germany, under the supervision of Prof. Wil van der Aalst, the godfather of process mining.
+He is a former SAP Technical Consultant and was involved in several SAP ABAP development, SAP Fiori, and SAP PI/PO projects.
 {style="text-align: justify;"}

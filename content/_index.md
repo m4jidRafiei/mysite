@@ -32,7 +32,7 @@ sections:
           company_logo: rwth
           location: Aachen, Germany
           date_start: '2018-08-01'
-          date_end: ''
+          date_end: '2023-11-24'
           description: |2-
               Responsibilities include:
 
