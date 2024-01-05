@@ -28,7 +28,7 @@ sections:
       items:
         - title: Process and Data Scientist (PhD Candidate)
           company: RWTH Aachen University
-          company_url: www.pads.rwth-aachen.de
+          company_url: https://www.pads.rwth-aachen.de/go/id/pnbx/?lidx=1
           company_logo: rwth
           location: Aachen, Germany
           date_start: '2018-08-01'
