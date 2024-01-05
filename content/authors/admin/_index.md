@@ -14,12 +14,12 @@ last_name: Rafiei
 superuser: true
 
 # Role/position/tagline
-role: Data and Process Scientist
+role: Senior Process and Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RWTH Aachen University
-    url: https://www.rwth-aachen.de/
+  - name: SAP SE
+    url: https://www.sap.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, process science, machine learning, and privacy enhancing technologies.
@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate in Process Mining
+    - course: PhD Candidate in Process and Data Science
       institution: RWTH Aachen University
-      year: 2018 - present
+      year: 2018 - 2023
     - course: MSc in Information Technology - Electronic Commerce
       institution: Amirkabir University of Technology
       year: 2011 - 2013
@@ -68,7 +68,8 @@ social:
     link: https://github.com/m4jidRafiei
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/majid-rafiei-0838509a/
+    link: https://www.linkedin.com/in/majid-rafiei-ph-d-0838509a/
+	
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,13 +78,13 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'majid.rafiei@pads.rwth-aachen.de'
+email: 'majid.rafiei@sap.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Majid is fascinated by the science that takes data from the real world and transforms them into useful insights by discovering business process models or training descriptive and predictive models. 
-Majid obtained his Ph.D. in process and data science at RWTH Aachen University in Germany, under the supervision of Prof. Wil van der Aalst, the godfather of process mining.
+Majid is fascinated by the science that takes data from the real world and transforms them into useful insights by discovering business process models or training descriptive and predictive models.
+Majid earned his Ph.D. in process and data science at RWTH Aachen University in Germany, under the supervision of Prof. Wil van der Aalst, the godfather of process mining. He is currently working as a Senior Process and Data Scientist at SAP SE.
 He is a former SAP Technical Consultant and was involved in several SAP ABAP development, SAP Fiori, and SAP PI/PO projects.
 {style="text-align: justify;"}

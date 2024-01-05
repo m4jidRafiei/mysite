@@ -212,16 +212,16 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: majid <dot> rafiei <at> pads <dot> rwth-aachen <dot> de 
+      email: majid <dot> rafiei <at> sap <dot> com 
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
-      address:
-        street: Ahornstrasse
-        city: Aachen
+      #address:
+      #  street: Ahornstrasse
+      #  city: Aachen
         #region: NRW
-        postcode: '52074'
-        country: Germany
-        country_code: DE
+      #  postcode: '52074'
+      #  country: Germany
+      #  country_code: DE
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
@@ -235,10 +235,10 @@ sections:
           icon_pack: fab
           name: Skype Me
           link: 'm4jid.rafiei'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://rwth.zoom.us/j/6768788333?pwd=OXkrUko3T1hmN1N5eFFCWHhISWw4dz09'
+        #- icon: video
+        #  icon_pack: fas
+        #  name: Zoom Me
+        #  link: 'https://rwth.zoom.us/j/6768788333?pwd=OXkrUko3T1hmN1N5eFFCWHhISWw4dz09'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
